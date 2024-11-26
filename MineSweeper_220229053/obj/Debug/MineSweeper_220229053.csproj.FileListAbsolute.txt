@@ -1,0 +1,12 @@
+C:\Users\senadulger\source\repos\MineSweeper_220229053\MineSweeper_220229053\bin\Debug\MineSweeper_220229053.exe.config
+C:\Users\senadulger\source\repos\MineSweeper_220229053\MineSweeper_220229053\bin\Debug\MineSweeper_220229053.exe
+C:\Users\senadulger\source\repos\MineSweeper_220229053\MineSweeper_220229053\bin\Debug\MineSweeper_220229053.pdb
+C:\Users\senadulger\source\repos\MineSweeper_220229053\MineSweeper_220229053\obj\Debug\MineSweeper_220229053.csproj.AssemblyReference.cache
+C:\Users\senadulger\source\repos\MineSweeper_220229053\MineSweeper_220229053\obj\Debug\MineSweeper_220229053.Form1.resources
+C:\Users\senadulger\source\repos\MineSweeper_220229053\MineSweeper_220229053\obj\Debug\MineSweeper_220229053.Properties.Resources.resources
+C:\Users\senadulger\source\repos\MineSweeper_220229053\MineSweeper_220229053\obj\Debug\MineSweeper_220229053.csproj.GenerateResource.cache
+C:\Users\senadulger\source\repos\MineSweeper_220229053\MineSweeper_220229053\obj\Debug\MineSweeper_220229053.csproj.CoreCompileInputs.cache
+C:\Users\senadulger\source\repos\MineSweeper_220229053\MineSweeper_220229053\obj\Debug\MineSweeper_220229053.exe
+C:\Users\senadulger\source\repos\MineSweeper_220229053\MineSweeper_220229053\obj\Debug\MineSweeper_220229053.pdb
+C:\Users\senadulger\source\repos\MineSweeper_220229053\MineSweeper_220229053\obj\Debug\MineSweeper_220229053.Form2.resources
+C:\Users\senadulger\source\repos\MineSweeper_220229053\MineSweeper_220229053\obj\Debug\MineSweeper_220229053.Form3.resources
